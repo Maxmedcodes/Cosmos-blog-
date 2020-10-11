@@ -1,0 +1,9 @@
+.share{
+  display: flex;
+  justify-content: center;
+}
+
+.share img{
+  width:  9.50rem;
+  height: 9.50rem;
+}
